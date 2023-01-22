@@ -4,7 +4,6 @@ title: ""
 ---
 
 
-<img align="right" width="20%" src="/images/yvonne.jpg" >
 
 ---
 
