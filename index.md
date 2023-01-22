@@ -5,7 +5,7 @@ title: ""
 
 ![yvonne](/images/yvonne.jpg)
 
-<img align="right" width="50%" src="/images/yvonne.jpg" >
+<img align="right" width="10%" src="/images/yvonne.jpg" >
 
 Hi there!
 
