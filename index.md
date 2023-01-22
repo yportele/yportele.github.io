@@ -3,7 +3,6 @@ layout: page
 title: ""
 ---
 
-![yvonne](/images/yvonne.jpg)
 
 <img align="right" width="20%" src="/images/yvonne.jpg" >
 
