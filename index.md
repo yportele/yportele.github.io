@@ -6,7 +6,7 @@ title: ""
 
 
 
-<p align="right" width="100%">
+<p align="center" width="100%">
     <img width="20%" src="/images/yvonne.jpg">
 </p>
 
