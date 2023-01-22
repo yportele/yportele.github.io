@@ -5,6 +5,8 @@ title: ""
 
 ![yvonne](/images/yvonne.jpg)
 
+<img align="right" width="50%" src="/images/yvonne.jpg" >
+
 Hi there!
 
 I'm a PostDoc research assistant and lecturer at the [Linguistics Institute](https://www.linguistik-in-frankfurt.de/) of the Goethe University Frankfurt.
