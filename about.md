@@ -1,13 +1,8 @@
 ---
-title: "About"
+title: "About me"
 layout: page
 ---
 
 
 Hey!
-
-## About me
-
- - ...
- - ...
  
