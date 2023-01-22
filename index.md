@@ -6,6 +6,14 @@ title: ""
 
 <img align="right" width="20%" src="/images/yvonne.jpg" >
 
+---
+
+<p align="right" width="100%">
+    <img width="20%" src="/images/yvonne.jpg">
+</p>
+
+---
+
 Hi there!
 
 I'm a PostDoc research assistant and lecturer at the [Linguistics Institute](https://www.linguistik-in-frankfurt.de/) of the Goethe University Frankfurt.
