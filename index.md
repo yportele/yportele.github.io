@@ -3,6 +3,7 @@ layout: page
 title: ""
 ---
 
+![](/images/yvonne.jpg | width=50)
 
 Hi there!
 
