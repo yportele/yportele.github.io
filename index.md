@@ -3,7 +3,9 @@ layout: page
 title: ""
 ---
 
-![](/images/yvonne.jpg | width=50)
+<p align="center" width="100%">
+    <img width="15%" src="/images/yvonne.jpg">
+</p>
 
 Hi there!
 
