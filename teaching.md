@@ -14,9 +14,9 @@ layout: page
 
 ## Winter Term 21/22
 * Einführung in die Sprachwissenschaft II 
-* Psycholinguistics III
+* Psycholinguistics III (Processing word order)
 
-## Further seminars
+## More previous seminars
 * Psycholinguistic perspectives on sentence production
 * Priming in sentence processing
 * Linguistik & Sprachvermittlung
