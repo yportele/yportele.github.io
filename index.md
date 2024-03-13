@@ -9,7 +9,8 @@ title: ""
 
 Hi there!
 
-I'm a PostDoc research assistant and lecturer at the [Linguistics Institute](https://www.linguistik-in-frankfurt.de/) of the Goethe University Frankfurt.
+I'm a PostDoc research assistant and lecturer at [FU Berlin](https://www.ewi-psy.fu-berlin.de/sonderpaedagogik/sonderpaed/Sprachentwicklung/index.html) and [Goethe University Frankfurt](https://www.linguistik-in-frankfurt.de/).
+
 Within the **Psycholinguistics** working group (Prof. Dr. Markus Bader), we investigate language production and comprehension of adult (German) speakers using behavioral methods as well as eye-tracking. Among our central questions are:
 
 * What are the factors influencing grammatical encoding during language production and how do speakers decide among several syntactic options?
