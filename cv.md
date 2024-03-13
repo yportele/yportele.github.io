@@ -17,10 +17,12 @@ layout: page
 
 ### Publications
 
+Portele, Yvonne & Markus Bader. 2023. Strong semantic biases make demonstrative pronouns act like personal pronouns. *Glossa: a journal of general linguistics*, 8(1).
+
 Bader, Markus, Yvonne Portele & Alice Schäfer. 2022. Semantic Bias in the Interpretation of German Personal and Demonstrative Pronouns. In Sam Featherston, Robin Hörnig, Andreas Konietzko & Sophie von Wietersheim (eds.), *Proceedings of Linguistic
 Evidence 2020: Linguistic Theory Enriched by Experimental Data*. Tübingen: Universität Tübingen. 
 
-Bader, Markus & Yvonne Portele. 2021. *Discourse and Form Constraints on Licensing Object-First Sentences in German*. Languages, 6(2), 82.
+Bader, Markus & Yvonne Portele. 2021. Discourse and Form Constraints on Licensing Object-First Sentences in German. *Languages*, 6(2), 82.
 
 Portele, Yvonne. 2021. *Derived accessibility in sentence production: Experimental
 investigations of Structural and Perceptual Priming in German*. Dissertation, Goethe-
