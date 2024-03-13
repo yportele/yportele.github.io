@@ -3,6 +3,18 @@ title: "Teaching"
 layout: page
 ---
 
+# Berlin & Frankfurt
+
+## Winter Term 23/24 
+* Sprachliche Entwicklung [FU Berlin]
+* Descriptive statistics for linguists (with Prof. Dr. Sol Lago) [GU Frankfurt]
+* Phänomene der Sprachverarbeitung [GU Frankfurt]
+
+# Frankfurt
+
+## Summer Term 23
+* Einführung in R
+* Psycho-/Neurolinguistik Ib
 
 ## Winter Term 22/23 
 * Einführung in die Sprachwissenschaft II 
@@ -16,7 +28,7 @@ layout: page
 * Einführung in die Sprachwissenschaft II 
 * Psycholinguistics III (Processing word order)
 
-## More previous seminars
+## More past seminars:
 * Psycholinguistic perspectives on sentence production
 * Priming in sentence processing
 * Linguistik & Sprachvermittlung
